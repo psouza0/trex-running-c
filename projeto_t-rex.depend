@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1603746523 source:e:\nuvem\pgls@ecomp.poli.br\classroom\lpi 2020.3\projeto\projeto_lpi2020.3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602726013 source:e:\nuvem\pgls@ecomp.poli.br\classroom\lpi 2020.3\projeto\projeto_lpi2020.3\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+
+1602725996 source:e:\nuvem\pgls@ecomp.poli.br\classroom\lpi 2020.3\projeto\projeto_lpi2020.3\jogo.c
+	<stdio.h>
+	<stdlib.h>
+
+1603746226 source:e:\nuvem\pgls@ecomp.poli.br\classroom\lpi 2020.3\projeto\projeto_lpi2020.3\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1603745481 source:e:\nuvem\pgls@ecomp.poli.br\classroom\lpi 2020.3\projeto\projeto_lpi2020.3\ranking.c
+	<stdio.h>
+	<stdlib.h>
+
+1603747993 source:e:\nuvem\pgls@ecomp.poli.br\classroom\lpi 2020.3\projeto\projeto_lpi2020.3\matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1605035583 source:c:\users\augusto\dropbox\projeto_lpi2020.3\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	"instrucoes.h"
+
+1605061172 source:c:\users\augusto\dropbox\projeto_lpi2020.3\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"extraf.h"
+
+1605035597 source:c:\users\augusto\dropbox\projeto_lpi2020.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1604338463 source:c:\users\augusto\dropbox\projeto_lpi2020.3\ranking.c
+	<stdio.h>
+	<stdlib.h>
+
+1603748778 source:c:\users\augusto\dropbox\projeto_lpi2020.3\matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1605060899 source:c:\users\augusto\dropbox\projeto_lpi2020.3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"extraf.h"
+	"desenhos.h"
+	"jogo.h"
+	"instrucoes.h"
+	"creditos.h"
+
+1604770007 c:\users\augusto\dropbox\projeto_lpi2020.3\desenhos.h
+
+1604770007 source:c:\users\augusto\dropbox\projeto_lpi2020.3\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+
+1605057185 source:c:\users\augusto\dropbox\projeto_lpi2020.3\extraf.c
+	<time.h>
+	<windows.h>
+	"extraf.h"
+
+1604770389 c:\users\augusto\dropbox\projeto_lpi2020.3\extraf.h
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1604770007 source:e:\nuvem\dropbox\projeto_lpi2020.3\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+
+1604770007 e:\nuvem\dropbox\projeto_lpi2020.3\desenhos.h
+
+1604783396 source:e:\nuvem\dropbox\projeto_lpi2020.3\extraf.c
+	<time.h>
+	<windows.h>
+	"extraf.h"
+
+1604770389 e:\nuvem\dropbox\projeto_lpi2020.3\extraf.h
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1604968721 source:e:\nuvem\dropbox\projeto_lpi2020.3\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	"instrucoes.h"
+
+1604783500 source:e:\nuvem\dropbox\projeto_lpi2020.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1603748778 source:e:\nuvem\dropbox\projeto_lpi2020.3\matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1604338463 source:e:\nuvem\dropbox\projeto_lpi2020.3\ranking.c
+	<stdio.h>
+	<stdlib.h>
+
+1604764737 c:\users\augusto\dropbox\projeto_lpi2020.3\jogo.h
+
+1602725863 c:\users\augusto\dropbox\projeto_lpi2020.3\ranking.h
+
+1602725900 c:\users\augusto\dropbox\projeto_lpi2020.3\instrucoes.h
+
+1604969060 source:e:\nuvem\dropbox\projeto_lpi2020.3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"extraf.h"
+	"desenhos.h"
+	"jogo.h"
+	"ranking.h"
+	"instrucoes.h"
+
+1604764737 e:\nuvem\dropbox\projeto_lpi2020.3\jogo.h
+
+1602725863 e:\nuvem\dropbox\projeto_lpi2020.3\ranking.h
+
+1602725900 e:\nuvem\dropbox\projeto_lpi2020.3\instrucoes.h
+
+1604967159 source:e:\nuvem\dropbox\projeto_lpi2020.3\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"extraf.h"
+
+1604770007 source:c:\users\rluca\dropbox\projeto_lpi2020.3\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+
+1604770007 c:\users\rluca\dropbox\projeto_lpi2020.3\desenhos.h
+
+1604770389 source:c:\users\rluca\dropbox\projeto_lpi2020.3\extraf.c
+	"extraf.h"
+
+1604770389 c:\users\rluca\dropbox\projeto_lpi2020.3\extraf.h
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1604338463 source:c:\users\rluca\dropbox\projeto_lpi2020.3\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+
+1604771638 source:c:\users\rluca\dropbox\projeto_lpi2020.3\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"extraf.h"
+
+1604770389 source:c:\users\rluca\dropbox\projeto_lpi2020.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1603748778 source:c:\users\rluca\dropbox\projeto_lpi2020.3\matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1604770334 source:c:\users\rluca\dropbox\projeto_lpi2020.3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"extraf.h"
+	"desenhos.h"
+	"jogo.h"
+	"ranking.h"
+	"instrucoes.h"
+
+1604764737 c:\users\rluca\dropbox\projeto_lpi2020.3\jogo.h
+
+1602725863 c:\users\rluca\dropbox\projeto_lpi2020.3\ranking.h
+
+1602725900 c:\users\rluca\dropbox\projeto_lpi2020.3\instrucoes.h
+
+1604338463 source:c:\users\rluca\dropbox\projeto_lpi2020.3\ranking.c
+	<stdio.h>
+	<stdlib.h>
+
+1604761782 c:\users\augusto\dropbox\projeto_lpi2020.3\menu.h
+
+1604338509 e:\nuvem\dropbox\projeto_lpi2020.3\menu.h
+
+1605058724 c:\users\augusto\dropbox\projeto_lpi2020.3\creditos.h
+
+1605058951 source:c:\users\augusto\dropbox\projeto_lpi2020.3\creditos.c
+	<stdio.h>
+	<stdlib.h>
+	"creditos.h"
+
+1605058951 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\creditos.c
+	<stdio.h>
+	<stdlib.h>
+	"creditos.h"
+
+1605058724 c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\creditos.h
+
+1604770007 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+
+1604770007 c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\desenhos.h
+
+1605057185 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\extraf.c
+	<time.h>
+	<windows.h>
+	"extraf.h"
+
+1604770389 c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\extraf.h
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1605035583 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	"instrucoes.h"
+
+1602725900 c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\instrucoes.h
+
+1605061172 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"extraf.h"
+
+1604761782 c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\menu.h
+
+1605035597 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1605060899 source:c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"extraf.h"
+	"desenhos.h"
+	"jogo.h"
+	"instrucoes.h"
+	"creditos.h"
+
+1604764737 c:\users\augusto\desktop\projeto lpi\projeto_lpi2020.3\jogo.h
+
